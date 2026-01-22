@@ -1,2 +1,3 @@
-# EmbOCtracker
+# EmbOSTracker
 UAV Object tracker
+
